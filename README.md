@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SaaS Website Builder, Project Management And Dashboard With Stripe using Nextjs14, Bun, Stripe Connect, Prisma, MySQL, Tailwind
 
 ![Application Logo](https://storage.googleapis.com/msgsndr/0wtSXexlPhMN1945ooxW/media/65b7c3d24660477daf3d6708.png)
@@ -80,3 +81,6 @@ If the user accepts the invitation to the agency, you can control their access t
 
 
 
+=======
+# Atlasflex
+>>>>>>> 85ca0e9bc8abe9576b708011cac1e906f851704a
